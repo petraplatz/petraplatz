@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Riccardo 👋</h1>
+<h1 align="center">Hi there, I'm Riccardo 🖖</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -21,7 +21,7 @@
 Senior Software Developer @ **Optimizely CMS**, Berlin 🇩🇪 · from Italy 🇮🇹  
 **Frontend** lover for 15+ years, handcrafting the web, caring about **performance** and **accessibility**.  
 This is my personal playground for side projects and experiments; my day-to-day work lives on [@ptz000](https://github.com/ptz000).  
-Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍝
+Off-screen: wild nature 🌲, music discovery 🎧, slow veg food 🍕
 
 ### 🛠️ Tech Stack
 <p align="left">
